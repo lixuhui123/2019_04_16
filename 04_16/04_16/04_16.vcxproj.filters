@@ -21,5 +21,14 @@
     <ClCompile Include="QuChuEeJinZhiDeMeiYiWei.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="homework3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

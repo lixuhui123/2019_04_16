@@ -1,6 +1,6 @@
 //#include<stdio.h>
 //#include<stdlib.h>
-////取一个数的二进制有几个1
+////求一个数的二进制有几个1
 //int BitOneCount(num)
 //{
 //	int count = 0;
