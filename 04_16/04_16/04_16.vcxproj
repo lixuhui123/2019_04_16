@@ -23,6 +23,7 @@
     <ProjectGuid>{75868329-03FB-4408-83FB-D27283F19C5A}</ProjectGuid>
     <RootNamespace>My0416</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>作业4,5，逆置单词</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -121,6 +122,7 @@
     <ClCompile Include="homework5.c" />
     <ClCompile Include="JiYiGeShuDeWei.c" />
     <ClCompile Include="QuChuEeJinZhiDeMeiYiWei.c" />
+    <ClCompile Include="ZaiCiLianXi.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
